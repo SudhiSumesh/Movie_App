@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Live Demo : https://sumeshsudhi.github.io/Netfilx_Clone/
+Live Demo : https://sudhisumesh.github.io/Movie_App/
 
 This is a  Netflix clone created using React-Vite. The website allows users to browse movie data such as posters, names, descriptions, and trailers from YouTube using the `react-youtube` package.The website  uses `axios` to connect to the `TMDb API`. 
 
